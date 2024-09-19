@@ -9,6 +9,7 @@ Here's what I did:
 - removed `/dist` from `.gitignore`
 - Added the `dist` folder to VCS
 - Commit and push
+- In my project: `npm i Bennycopter/chartjs-plugin-zoom.git`
 
 # chartjs-plugin-zoom
 
