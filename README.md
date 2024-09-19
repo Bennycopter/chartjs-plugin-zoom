@@ -1,3 +1,15 @@
+# CIJ notes
+
+I made this fork so that I could edit the original plugin.  I just reduced a timeout that prevented an ugly interaction bug.
+
+Here's what I did:
+- Made the changes I needed
+- `npm install`
+- `npm run build`
+- removed `/dist` from `.gitignore`
+- Added the `dist` folder to VCS
+- Commit and push
+
 # chartjs-plugin-zoom
 
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/chartjs/chartjs-plugin-zoom/ci.yml)](https://github.com/chartjs/chartjs-plugin-zoom/actions/workflows/ci.yml)
